@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS 
+#define _CRT_SECURE_NO_WARNINGS 
 #include <stdio.h>
 
 int main(void)
@@ -36,4 +36,4 @@ int main(void)
 	printf("구의 표면적은: %.2lf\n", sphere_surface_area);
 	printf("구의 체적은: %.2lf\n", sphere_volume);
 	return 0;
-}*/
+}
