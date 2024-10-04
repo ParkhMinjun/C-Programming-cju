@@ -18,13 +18,13 @@ int main(void) // 시작
     }
 
     C1000 = nChange / 1000;   // 1000원의 개수는 nChange에서 1000을 나눈 수
-    nChange %= 1000;          // 복합대입연산자 %/ 사용 - nChange을 1000에 나눈 수를 다시 nChange에 대입
+    nChange %= 1000;          // 복합대입연산자 %= 사용 - nChange을 1000에 나눈 후 나머지를 다시 nChange에 대입
 
     C500 = nChange / 500;     // 500원의 개수는 nChange에서 500을 나눈 수
-    nChange %= 500;           // nChange을 500에 나눈 수를 다시 nChange에 대입
+    nChange %= 500;           // nChange을 500에 나눈 후 나머지 다시 nChange에 대입
 
     C100 = nChange / 100;     // 100원의 개수는 nChange에서 100을 나눈 수
-    nChange %= 100;           // nChange을 100에 나눈 수를 다시 nChange에 대입
+    nChange %= 100;           // nChange을 100에 나눈 후 나머지 다시 nChange에 대입
 
     printf("change: %d원\n", nMoney - nPrice); // 잔돈 결과 값 출력
     printf("1000원 : %d개\n", C1000);      // 1000원 개수 출력
