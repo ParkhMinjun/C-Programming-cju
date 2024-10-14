@@ -11,11 +11,11 @@ int main(void)
 
 	if (o == '+')
 	{
-		printf("%d %c %d=%d\n", a, o, b, a + b);
+		printf("%d %c %d = %d\n", a, o, b, a + b);
 	}
 	else if (o == '-')
 	{
-		printf("%d %c %d=%d\n", a, o, b, a - b);
+		printf("%d %c %d = %d\n", a, o, b, a - b);
 	}
 	else if (o == '*')
 	{
@@ -23,7 +23,7 @@ int main(void)
 	}
 	else if (o == '/')
 	{
-		printf("%d %c %d=%d\n", a, o, b, a / b);
+		printf("%d %c %d = %d\n", a, o, b, a / b);
 	}
 
 	return 0;
