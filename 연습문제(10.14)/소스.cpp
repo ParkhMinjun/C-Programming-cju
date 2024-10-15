@@ -6,7 +6,7 @@ int main(void)
 	char o;
 	int a, b, res;
 
-	printf("»çÄ¢¿¬»ê ÀÔ·Â(Á¤¼ö):");
+	printf("ì‚¬ì¹™ì—°ì‚° ìž…ë ¥(ì •ìˆ˜):");
 	scanf("%d %c %d", &a, &o, &b);
 
 	if (o == '+')
