@@ -11,18 +11,29 @@ int main(void)
 
 	switch (o)
 	{
-		{case '+': res = a + b;     // + 기호이면 덧셈 후 빠져나오기
-				 break; }
+		{
+			case '+': res = a + b;     // + 기호이면 덧셈 후 빠져나오기
+			break; 
+		}
 
-		{case '-': res = a - b;     // - 기호이면 뺄셈 후 빠져나오기
-				 break; }
+		{
+			case '-': res = a - b;     // - 기호이면 뺄셈 후 빠져나오기
+			break;
+		}
 
-		{case '*': res = a * b;     // * 기호이면 곱셈 후 빠져나오기
-				 break; }
+		{
+			case '*': res = a * b;     // * 기호이면 곱셈 후 빠져나오기
+			break;
+		}
 
-		{case '/': res = a / b;    // / 기호이면 나눗셈 후 빠져나오기
-				 break; }
-		{default:; }
+		{
+			case '/': res = a / b;    // / 기호이면 나눗셈 후 빠져나오기
+			break; 
+		}
+
+		{
+			default:; 
+		}
 			 
 	}
 
