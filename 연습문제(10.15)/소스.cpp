@@ -12,27 +12,32 @@ int main(void)
 	switch (o)
 	{
 		{
-			case '+': res = a + b;     // + 기호이면 덧셈 후 빠져나오기
+			case '+': 
+			res = a + b;     // + 기호이면 덧셈 후 빠져나오기
 			break; 
 		}
 
 		{
-			case '-': res = a - b;     // - 기호이면 뺄셈 후 빠져나오기
+			case '-': 
+			res = a - b;     // - 기호이면 뺄셈 후 빠져나오기
 			break;
 		}
 
 		{
-			case '*': res = a * b;     // * 기호이면 곱셈 후 빠져나오기
+			case '*': 
+			res = a * b;     // * 기호이면 곱셈 후 빠져나오기
 			break;
 		}
 
 		{
-			case '/': res = a / b;    // / 기호이면 나눗셈 후 빠져나오기
+			case '/': 
+			res = a / b;    // / 기호이면 나눗셈 후 빠져나오기
 			break; 
 		}
 
 		{
-			default:; 
+			default:
+			printf("잘못된 수식입력입니다.");    // +,-,*,/ 이외의 기호 입력시 출력
 		}
 			 
 	}
