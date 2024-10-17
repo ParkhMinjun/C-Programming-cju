@@ -1,0 +1,5 @@
+﻿  학점if.c
+  학점switch~case.c
+  코드를 생성하고 있습니다...
+학점switch~case.obj : error LNK2005: main이(가) 학점if.obj에 이미 정의되어 있습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\Report #2\문제 3번\x64\Debug\문제 3번.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
