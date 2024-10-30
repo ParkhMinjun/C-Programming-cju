@@ -139,9 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4소스.c" />
     <ClCompile Include="각도변환.c" />
-    <ClCompile Include="소스.c" />
     <ClCompile Include="온도변환.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

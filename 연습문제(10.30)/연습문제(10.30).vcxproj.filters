@@ -18,13 +18,7 @@
     <ClCompile Include="온도변환.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="각도변환.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4소스.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

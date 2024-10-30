@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 double celsius(double C);    // È­¾¾ º¯È¯ ÇÔ¼ö ¼±¾ð
 double fahrenheit(double F); // ¼·¾¾ º¯È¯ ÇÔ¼ö ¼±¾ð
@@ -31,4 +31,4 @@ double celsius(double C)
 double fahrenheit(double F)
 {
     return (F - 32.0) * 5.0 / 9.0; // È­¾¾¸¦ ¼·¾¾·Î °è»ê ÈÄ ¹ÝÈ¯
-}
+}*/
