@@ -1,0 +1,5 @@
+﻿  오름차순,내림차순.c
+C:\Users\user\Documents\GitHub\C-Programming-cju\Project2\오름차순,내림차순.c(11,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\Project2\오름차순,내림차순.c(64,16): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\Project2\오름차순,내림차순.c(64,16): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+  Project2.vcxproj -> C:\Users\user\Documents\GitHub\C-Programming-cju\Project2\x64\Debug\Project2.exe
