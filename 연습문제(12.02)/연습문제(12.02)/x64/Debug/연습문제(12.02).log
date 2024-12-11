@@ -1,0 +1,19 @@
+﻿  배열.c
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(11,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(22,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(24,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(24,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(33,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(56,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(58,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(58,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(65,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(67,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(67,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(68,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(68,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(69,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(69,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(70,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\배열.c(70,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+  연습문제(12.02).vcxproj -> C:\Users\user\Documents\GitHub\C-Programming-cju\연습문제(12.02)\x64\Debug\연습문제(12.02).exe

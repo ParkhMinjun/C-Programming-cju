@@ -1,0 +1,3 @@
+﻿  배열계산.c
+C:\Users\user\Documents\GitHub\C-Programming-cju\Report(69,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Report#4.vcxproj -> C:\Users\user\Documents\GitHub\C-Programming-cju\Report#4\x64\Debug\Report#4.exe
